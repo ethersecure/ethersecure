@@ -1,11 +1,7 @@
 [![MasterHead](https://github.com/ethersecure/ethersecure.github.io/blob/main/images/readmeimg.png)](https://ethersecure.io)
 <h1 align="center">Hi 👋, I'm Harsh Kumar Kale</h1>
 <h3 align="center">A passionate backend developer from India</h3>
- <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-<!--https://tenor.com/view/hacker-computer-cyberpunk-hacking-dark-gif-20517262.gif
-https://i.gifer.com/EgUx.gif 
-
-<img align="right" alt="Coding" width="400" src="https://i.gifer.com/EgUx.gif">-->
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ethersecure&label=Profile%20views&color=0e75b6&style=flat" alt="ethersecure" /> </p>
 
