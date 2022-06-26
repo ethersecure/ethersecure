@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- My personal page [ethersecure.github.io](ethersecure.github.io)
+- My personal page [ethersecure.github.io](https://ethersecure.github.io)
 
 - 💬 Ask me about **Go , Java**
 
